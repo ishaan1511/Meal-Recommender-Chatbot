@@ -54,7 +54,7 @@ from mealbot import chatbot
 * `around 500 calories`
 * `high protein, not too salty`
 * `no dairy`
-* `I don’t like chicken`
+* `I don’t like fish`
 
 **How It Works**
 
